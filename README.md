@@ -28,6 +28,8 @@ A collection of HEX color palettes inspired by Death Note’s visual tone and em
 ![#E3C9A8](https://img.shields.io/badge/-%23E3C9A8-E3C9A8?style=for-the-badge)
 ![#F8EFE5](https://img.shields.io/badge/-%23F8EFE5-F8EFE5?style=for-the-badge)
 ![#B3B3C6](https://img.shields.io/badge/-%23B3B3C6-B3B3C6?style=for-the-badge)
+![#3E4A66](https://img.shields.io/badge/-%233E4A66-3E4A66?style=for-the-badge)
+![#6F7A8C](https://img.shields.io/badge/-%236F7A8C-6F7A8C?style=for-the-badge) 
 
 > Soft blacks, washed-out pinks, dried-rose reds and dusty lavenders —  
 > the room is quiet, the light is fading, and Misa is still singing.
